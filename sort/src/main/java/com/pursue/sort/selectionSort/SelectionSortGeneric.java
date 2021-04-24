@@ -1,4 +1,6 @@
-package com.pursue.selectionsort;
+package com.pursue.sort.selectionSort;
+
+import com.pursue.sort.bean.Student;
 
 /**
  * 选择排序 使用泛型

@@ -1,4 +1,4 @@
-package com.pursue.selectionsort;
+package com.pursue.sort;
 
 import android.content.Context;
 

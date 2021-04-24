@@ -1,4 +1,4 @@
-package com.pursue.selectionsort;
+package com.pursue.sort.bean;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
