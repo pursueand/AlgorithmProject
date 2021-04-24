@@ -1,3 +1,4 @@
+include ':SelectionSort'
 include ':app'
 rootProject.name = "AlgorithmProject"
 include ':LinearSearch'
