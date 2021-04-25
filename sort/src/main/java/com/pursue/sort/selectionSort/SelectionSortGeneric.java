@@ -8,8 +8,7 @@ import com.pursue.sort.bean.Student;
  * Describe:
  */
 public class SelectionSortGeneric {
-    private SelectionSortGeneric() {
-    }
+    private SelectionSortGeneric() {}
 
     /**
      * [0,i)是已经处理的数据，[i,n)是未处理的数据，每次需要在未处理的数据中找到最小值跟数组中i交换位置
