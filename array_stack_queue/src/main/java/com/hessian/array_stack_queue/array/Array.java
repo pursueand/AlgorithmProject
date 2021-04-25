@@ -79,7 +79,7 @@ public class Array<E> {
      * @return 返回移除的元素
      */
     public E remove(int index){
-        return (E)new Object(); 
+        return (E)new Object();
     }
 
     /**
