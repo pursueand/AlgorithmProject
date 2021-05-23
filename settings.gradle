@@ -1,3 +1,4 @@
+include ':mylibrary'
 include ':sort'
 include ':app'
 rootProject.name = "AlgorithmProject"

@@ -1,5 +1,9 @@
 package com.pursue.sort;
 
+import android.os.Handler;
+import android.os.Looper;
+import android.os.MessageQueue;
+
 import com.pursue.sort.InsertionSort.InsertionSort;
 import com.pursue.sort.selectionSort.SelectionSort;
 
@@ -9,6 +13,11 @@ import com.pursue.sort.selectionSort.SelectionSort;
  */
 public class Main {
     public static void main(String[] args) {
+//        Looper.loop();
+//        Looper.prepare();
+//        Handler handler;
+//        MessageQueue
+
 
 
 //        测试插入排序
