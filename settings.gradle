@@ -1,5 +1,7 @@
+
 include ':mylibrary'
+include ':array_stack_queue'
 include ':sort'
 include ':app'
 rootProject.name = "AlgorithmProject"
-include ':LinearSearch'
+include ':search'
